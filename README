@@ -1,0 +1,6 @@
+---------------------GRID MANAGEMENT----------------------------------------
+-------------------------SYSTEM-----------------------------------------------------
+
+Grid is a server that is used to handle the request on the server side  in order to use ant colony optimization
+
+In the  resourcejava it starts a thread to acess a resource with an appropiate function an send back the response to grid server 
